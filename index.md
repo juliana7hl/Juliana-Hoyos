@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # CV
-## Header 2
-### Header 3
+## Research
+### Contact
 
 - Bulleted
 - List
